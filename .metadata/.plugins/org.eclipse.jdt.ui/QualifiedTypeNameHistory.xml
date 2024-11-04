@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="p3_average_tests.AverageTest"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+    <fullyQualifiedTypeName name="model.StringBag"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TextArea"/>
+    <fullyQualifiedTypeName name="javafx.scene.Scene"/>
+    <fullyQualifiedTypeName name="javafx.scene.Node"/>
+    <fullyQualifiedTypeName name="javafx.fxml.FXMLLoader"/>
 </qualifiedTypeNameHistroy>
