@@ -21,7 +21,7 @@ public class PrimMST {
 
     // Function to construct and print MST using Prim's algorithm
     void primMST(int[][] graph) {
-        int[] parent = new int[V];  // Array to store constructed MST
+        int[] parent = new int[V];  // Array to store constructed MSTs
         int[] key = new int[V];     // Key values used to pick minimum weight edge
         boolean[] mstSet = new boolean[V]; // To represent set of vertices included in MST
 
